@@ -15,7 +15,7 @@ wwmo = loadAnimation("left.png","switch.png","right.png","switch.png");
 wwdedost = loadImage("honk.png");
 groundimg = loadImage("fundo.png");
 obstucaloimg = loadImage("obstucalo.png");
-persecutormo = loadAnimation("perse1.png","perse2.png","perse3.png");
+
 }
 
 function setup() {
